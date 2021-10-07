@@ -86,10 +86,7 @@ class NavigationListStateless extends StatelessWidget {
                   width: 2.0
                   )
               ),
-              child: Image.asset(
-                "icons/icon" + (i + 1).toString() + ".png",
-                fit: BoxFit.fitWidth
-              ),
+              child: Image.network('https://datadirectory-453ba.web.app/dataDirectory/icons/icon3.png')
             ),
             Container(
               width: 10,
