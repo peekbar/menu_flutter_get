@@ -1,0 +1,69 @@
+{
+    "id": "5eb2f53d-ec6d-4bda-88a2-3490c421bc10",
+    "editedAt": "2021-10-06T11:20:32.307332",
+    "title": "",
+    "language": "EN",
+    "categories": [
+        {
+            "id": "3060cc9f-6d33-49b2-b803-15d4bd6efdc3",
+            "name": "New Category",
+            "icon": "",
+            "products": [
+                {
+                    "id": "08800115-b067-44b5-bbd0-1bb709a9c164",
+                    "name": "New Product",
+                    "shortname": "1",
+                    "description": "Description",
+                    "price": "1 Euro",
+                    "additives": ""
+                },
+                {
+                    "id": "af2f6b4f-6ac6-4063-9407-6ae50d00d29b",
+                    "name": "New Product",
+                    "shortname": "1",
+                    "description": "Description",
+                    "price": "1 Euro",
+                    "additives": ""
+                },
+                {
+                    "id": "306d3ffb-404e-41ad-89b0-cdd955a9823e",
+                    "name": "New Product",
+                    "shortname": "1",
+                    "description": "Description",
+                    "price": "1 Euro",
+                    "additives": ""
+                },
+                {
+                    "id": "354ad3d6-3f12-49bd-8006-c8e593f7f77a",
+                    "name": "New Product",
+                    "shortname": "1",
+                    "description": "Description",
+                    "price": "1 Euro",
+                    "additives": ""
+                },
+                {
+                    "id": "f36958df-5cf7-46ee-9d08-c8c2fbbde820",
+                    "name": "New Product",
+                    "shortname": "1",
+                    "description": "Description",
+                    "price": "1 Euro",
+                    "additives": ""
+                }
+            ]
+        }
+    ],
+    "banners": [],
+    "opening_hours": [],
+    "min_order": [],
+    "imprint": {
+        "id": "a0fe93cd-b8e8-4973-9f61-895987536ee3",
+        "holder": "PEEKBAR",
+        "street": "Street 1",
+        "city": "City 1",
+        "phone": "0123456789",
+        "mail": "mail@peekbar.de",
+        "tax": "DE01234XX",
+        "homepage": "peekbar.de",
+        "companyname": "Capitano"
+    }
+}
